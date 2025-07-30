@@ -38,11 +38,13 @@ The model used is a Convolutional Neural Network (CNN) trained on a labeled data
    cd xray-fracture-detection
 
 
-****Place the trained model:**
-Ensure your fracture_xray_model.h5 file is in the root directory.
+**Place the trained model:**
+ 
+ Ensure your fracture_xray_model.h5 file is in the root directory.
 
 **Run the Streamlit app:**
-streamlit run app.py
+ 
+ streamlit run app.py
 
 
    
