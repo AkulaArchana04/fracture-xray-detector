@@ -43,8 +43,9 @@ The model used is a Convolutional Neural Network (CNN) trained on a labeled data
  Ensure your fracture_xray_model.h5 file is in the root directory.
 
 **Run the Streamlit app:**
- 
+
  streamlit run app.py
+
 
 
    
