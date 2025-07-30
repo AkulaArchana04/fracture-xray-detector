@@ -2,9 +2,6 @@
 
 A deep learning-powered web app built with TensorFlow and Streamlit to detect bone fractures from X-ray images. Upload an image, and the AI predicts whether the bone is fractured or normal — along with confidence visualization.
 
-![Fracture Detection UI Screenshot](demo_screenshot.png) <!-- Optional: Add a screenshot if available -->
-
-
 
 ## 🚀 Features
 
